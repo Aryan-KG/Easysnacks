@@ -108,5 +108,3 @@ lib/
 - The app focuses on a single realistic order workflow with clear separation of concerns and test coverage for business logic.
 - All code adheres to SOLID principles and is structured for maintainability.
 
-## Repository
-This repository is ready to be pushed to GitHub. If you’d like me to push it for you, share a GitHub repo URL (or a new repo name) and I’ll set the remote and push.
